@@ -8,7 +8,7 @@ Steps below to run the app
 
 1. Clone the project repository `git clone https://github.com/jayzyaj/IonicNgrxTemplate`
 
-2. Go to the project directory and run `npm -i` to install all the package needed
+2. Go to the project directory and run `npm i` to install all the package needed
 
 3. run `ionic serve`
 
